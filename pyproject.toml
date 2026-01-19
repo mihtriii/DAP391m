@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "chefboost>=0.0.19",
+    "graphviz>=0.21",
     "ipython>=9.9.0",
     "matplotlib>=3.10.8",
     "matplotlib-inline>=0.2.1",
